@@ -1,0 +1,32 @@
+{
+   "name": "draconequus",
+   "version": "0.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo none yet lol"
+   },
+   "files": [
+      "index.js"
+   ],
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/autumnblazey/draconequus.git"
+   },
+   "keywords": [
+      "discord",
+      "api",
+      "bot",
+      "client",
+      "node",
+      "discordapp",
+      "wrapper",
+      "draconequus"
+   ],
+   "author": "autumnblazey (Alexander Liu)",
+   "license": "MIT",
+   "bugs": {
+      "url": "https://github.com/autumnblazey/draconequus/issues"
+   },
+   "homepage": "https://github.com/autumnblazey/draconequus#readme"
+}
